@@ -1,0 +1,21 @@
+.footer__column-link {
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: normal;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.footer__column-link:visited {
+    color: #fff;
+}
+
+.footer__column-link:hover {
+    opacity: .6;
+    transition: opacity .4s;
+}
+
+.footer__column-link:nth-of-type(3n) {
+    margin-bottom: 0;
+}
