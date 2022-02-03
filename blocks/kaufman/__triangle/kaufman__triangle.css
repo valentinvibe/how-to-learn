@@ -1,6 +1,6 @@
 .kaufman__triangle {
   position: absolute;
+  top: -50px;
   right: -210px;
-  top: -210px;
   z-index: -1;
 }
