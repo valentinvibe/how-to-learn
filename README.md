@@ -7,3 +7,5 @@
   +  ***HTML5***;
   +  ***CSS3 (Flexbox, animation)***;
   +  ***БЭМ (Верстка, файловая структура)***.
+
+[Ссылка на проект](https://valentinvibe.github.io/how-to-learn/)
